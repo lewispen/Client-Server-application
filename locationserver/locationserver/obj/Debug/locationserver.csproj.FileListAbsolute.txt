@@ -1,0 +1,48 @@
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\Networking\locationserver\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\Networking\locationserver\locationserver\bin\Debug\locationserver.exe
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\Networking\locationserver\locationserver\bin\Debug\locationserver.pdb
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\Networking\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\Networking\locationserver\locationserver\obj\Debug\locationserver.exe
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\Networking\locationserver\locationserver\obj\Debug\locationserver.pdb
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\Networking\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+G:\Year2\557476\Networking\locationserver\locationserver\bin\Debug\locationserver.exe.config
+G:\Year2\557476\Networking\locationserver\locationserver\bin\Debug\locationserver.exe
+G:\Year2\557476\Networking\locationserver\locationserver\bin\Debug\locationserver.pdb
+G:\Year2\557476\Networking\locationserver\locationserver\obj\Debug\locationserver.csprojAssemblyReference.cache
+G:\Year2\557476\Networking\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+G:\Year2\557476\Networking\locationserver\locationserver\obj\Debug\locationserver.exe
+G:\Year2\557476\Networking\locationserver\locationserver\obj\Debug\locationserver.pdb
+G:\Year2\557476\Networking1\locationserver\locationserver\bin\Debug\locationserver.exe.config
+G:\Year2\557476\Networking1\locationserver\locationserver\bin\Debug\locationserver.exe
+G:\Year2\557476\Networking1\locationserver\locationserver\bin\Debug\locationserver.pdb
+G:\Year2\557476\Networking1\locationserver\locationserver\obj\Debug\locationserver.csprojAssemblyReference.cache
+G:\Year2\557476\Networking1\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+G:\Year2\557476\Networking1\locationserver\locationserver\obj\Debug\locationserver.exe
+G:\Year2\557476\Networking1\locationserver\locationserver\obj\Debug\locationserver.pdb
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\locationserver\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\locationserver\locationserver\bin\Debug\locationserver.exe
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\locationserver\locationserver\bin\Debug\locationserver.pdb
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\locationserver\locationserver\obj\Debug\locationserver.exe
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\locationserver\locationserver\obj\Debug\locationserver.pdb
+G:\Networking SVN\locationserver\locationserver\bin\Debug\locationserver.exe.config
+G:\Networking SVN\locationserver\locationserver\bin\Debug\locationserver.exe
+G:\Networking SVN\locationserver\locationserver\bin\Debug\locationserver.pdb
+G:\Networking SVN\locationserver\locationserver\obj\Debug\locationserver.csprojAssemblyReference.cache
+G:\Networking SVN\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+G:\Networking SVN\locationserver\locationserver\obj\Debug\locationserver.exe
+G:\Networking SVN\locationserver\locationserver\obj\Debug\locationserver.pdb
+G:\Networking SVN\locationserver\locationserver\obj\Debug\locationserver.serverUI.resources
+G:\Networking SVN\locationserver\locationserver\obj\Debug\locationserver.csproj.GenerateResource.cache
+G:\Networking_SVN\locationserver\locationserver\bin\Debug\locationserver.exe.config
+G:\Networking_SVN\locationserver\locationserver\bin\Debug\locationserver.exe
+G:\Networking_SVN\locationserver\locationserver\bin\Debug\locationserver.pdb
+G:\Networking_SVN\locationserver\locationserver\obj\Debug\locationserver.csprojAssemblyReference.cache
+G:\Networking_SVN\locationserver\locationserver\obj\Debug\locationserver.serverUI.resources
+G:\Networking_SVN\locationserver\locationserver\obj\Debug\locationserver.csproj.GenerateResource.cache
+G:\Networking_SVN\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+G:\Networking_SVN\locationserver\locationserver\obj\Debug\locationserver.exe
+G:\Networking_SVN\locationserver\locationserver\obj\Debug\locationserver.pdb
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\locationserver\locationserver\obj\Debug\locationserver.serverUI.resources
+C:\Users\Lewis\Documents\MyUniWorkFolder\Networking\locationserver\locationserver\obj\Debug\locationserver.csproj.GenerateResource.Cache
